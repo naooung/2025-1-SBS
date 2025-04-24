@@ -1,5 +1,3 @@
-@@ -0,0 +1,61 @@
-
 ## 🎯 Git Convention
 
 - 🎉 **Start:** Start New Project [:tada:]
